@@ -43,9 +43,7 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection>
-                <sel id="3791"/>
-            </selection>
+            <selection/>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
             <sources/>
@@ -92,7 +90,7 @@
                 <child id="622"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Pontoise Cormeilles"/>
-            <airport elevation="99.1" has_atc="1" icao="LFPT" kind="Airport" scenery_id="-1"/>
+            <airport elevation="99.1" has_atc="1" icao="LFPT" kind="Airport" scenery_id="40276"/>
         </object>
         <object class="WED_Runway" id="6" parent_id="613">
             <sources/>
@@ -15594,10 +15592,12 @@
             <sources/>
             <viewers/>
             <children>
+                <child id="3796"/>
+                <child id="3795"/>
                 <child id="605"/>
                 <child id="606"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="PAPI"/>
+            <hierarchy hidden="0" locked="1" name="Lights"/>
         </object>
         <object class="WED_AirportChain" id="2333" parent_id="614">
             <sources/>
@@ -28089,7 +28089,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}F{@R}12-30"/>
+            <hierarchy hidden="0" locked="0" name="{@L}F{@R}30-12"/>
             <point heading="28.07" latitude="49.097940249" longitude="2.039122821"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -28097,7 +28097,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}G{@R}12-30"/>
+            <hierarchy hidden="0" locked="0" name="{@L}G{@R}30-12"/>
             <point heading="28.07" latitude="49.099133038" longitude="2.035798858"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -28105,7 +28105,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}H{@R}12-30"/>
+            <hierarchy hidden="0" locked="0" name="{@L}H{@R}30-12"/>
             <point heading="28.07" latitude="49.100106822" longitude="2.033001355"/>
             <airport_sign size="Medium Taxiway" style="Default"/>
         </object>
@@ -28177,7 +28177,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}G{@Y}{^l}J1|{^r}J2"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}{^l}J1{@L}G{@Y}J2{^r}"/>
             <point heading="25.77" latitude="49.099516789" longitude="2.036076244"/>
             <airport_sign size="Small Taxiway" style="Default"/>
         </object>
@@ -28209,7 +28209,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}H{@Y}{^l}J2"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}{^l}J2{@L}H"/>
             <point heading="29.69" latitude="49.100468984" longitude="2.033754019"/>
             <airport_sign size="Small Taxiway" style="Default"/>
         </object>
@@ -28225,7 +28225,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="{@L}F{@Y}{^l}J|J1{^r}"/>
+            <hierarchy hidden="0" locked="0" name="{@Y}{^l}J{@L}F{@Y}J1{^r}"/>
             <point heading="40.03" latitude="49.098405041" longitude="2.039323689"/>
             <airport_sign size="Small Taxiway" style="Default"/>
         </object>
@@ -28632,6 +28632,22 @@
             <hierarchy hidden="0" locked="0" name="End"/>
             <point latitude="49.083529281" longitude="2.029013371"/>
         </object>
+        <object class="WED_LightFixture" id="3795" parent_id="2332">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WigWags-J23"/>
+            <point heading="290.74" latitude="49.097862234" longitude="2.040668183"/>
+            <light_fixture angle="3.00" type="Wig-Wags"/>
+        </object>
+        <object class="WED_LightFixture" id="3796" parent_id="2332">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WigWags-J23"/>
+            <point heading="306.88" latitude="49.097621333" longitude="2.040435219"/>
+            <light_fixture angle="3.00" type="Wig-Wags"/>
+        </object>
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
@@ -28677,10 +28693,10 @@
             <item value="2101"/>
             <item value="2106"/>
             <item value="2115"/>
+            <item value="2257"/>
             <item value="2259"/>
             <item value="2269"/>
             <item value="2277"/>
-            <item value="2332"/>
             <item value="2333"/>
             <item value="2485"/>
             <item value="2541"/>
@@ -28715,15 +28731,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="2.054378"/>
-        <pref name="map/north" value="49.104191"/>
+        <pref name="map/east" value="2.054050"/>
+        <pref name="map/north" value="49.111152"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="49.082733"/>
+        <pref name="map/south" value="49.075370"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="2.017333"/>
+        <pref name="map/west" value="2.016368"/>
         <pref name="map/world_map_vis" value="0"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -28788,13 +28804,13 @@
         <pref name="map_Tower Viewpoint_Tower Height" value="25.000000"/>
         <pref name="map_Vertex_Snap To Vertices" value="1"/>
         <pref name="map_Windsock_Lit" value="0"/>
-        <pref name="window/height" value="1117"/>
+        <pref name="window/height" value="981"/>
         <pref name="window/main_split" value="197"/>
-        <pref name="window/main_split2" value="1513"/>
+        <pref name="window/main_split2" value="947"/>
         <pref name="window/prev_split" value="737"/>
-        <pref name="window/prop_split" value="238"/>
-        <pref name="window/width" value="1920"/>
-        <pref name="window/x_loc" value="-8"/>
+        <pref name="window/prop_split" value="292"/>
+        <pref name="window/width" value="1280"/>
+        <pref name="window/x_loc" value="1912"/>
         <pref name="window/y_loc" value="-8"/>
     </prefs>
 </doc>
