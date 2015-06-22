@@ -50,7 +50,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="1293"/>
+                <sel id="6819"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="1538" parent_id="1509">
@@ -97,6 +97,7 @@
             <viewers/>
             <children>
                 <child id="5"/>
+                <child id="5011"/>
             </children>
             <hierarchy hidden="0" locked="0" name="world"/>
         </object>
@@ -4354,7 +4355,7 @@
             <children>
                 <child id="1292"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="LFPX_overlay.pol"/>
+            <hierarchy hidden="1" locked="1" name="LFPX_overlay.pol"/>
             <draped_orthophoto resource="LFPX_overlay.pol"/>
         </object>
         <object class="WED_ObjPlacement" id="2317" parent_id="2342">
@@ -11971,8 +11972,8 @@
             <children>
                 <child id="3386"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="background"/>
-            <polygon_placement heading="0.0" resource="lib/g10/terrain10/apt_tmp_wet.pol"/>
+            <hierarchy hidden="0" locked="1" name="grass_tmp_wet_fl.pol"/>
+            <polygon_placement heading="10.0" resource="lib/g10/terrain10/grass_tmp_wet_fl.pol"/>
         </object>
         <object class="WED_TextureBezierNode" id="3388" parent_id="3386">
             <sources/>
@@ -15136,6 +15137,12 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Exclusions"/>
         </object>
+        <object class="WED_Group" id="5011" parent_id="4">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="1" locked="0" name="C:\X-Plane 10\Custom Scenery\LFFC_FR.ASG\Earth nav data\+40+000\+49+001.dsf"/>
+        </object>
         <object class="WED_Group" id="5848" parent_id="6692">
             <sources/>
             <viewers/>
@@ -16193,16 +16200,16 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="0"/>
-        <pref name="map/east" value="1.991759"/>
-        <pref name="map/north" value="48.846434"/>
+        <pref name="map/east" value="1.994905"/>
+        <pref name="map/north" value="48.848927"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="48.837228"/>
+        <pref name="map/south" value="48.836675"/>
         <pref name="map/terraserver_vis" value="0"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="1.977747"/>
+        <pref name="map/west" value="1.976256"/>
         <pref name="map/world_map_vis" value="0"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -16227,7 +16234,7 @@
         <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Parking/Asphalt_CracksSm.obj"/>
         <pref name="map_Objects_Show with" value="527"/>
         <pref name="map_Polygons_Heading" value="0.000000"/>
-        <pref name="map_Polygons_Resource" value="lib/g10/terrain10/apt_tmp_wet.pol"/>
+        <pref name="map_Polygons_Resource" value="lib/airport/pavement/asphalt_6D.pol"/>
         <pref name="map_Polygons_Use Texture Map" value="0"/>
         <pref name="map_Ramp Start_Equipment Type" value=""/>
         <pref name="map_Ramp Start_Ramp Start Type" value="136"/>
