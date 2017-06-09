@@ -1373,8 +1373,8 @@ I
 112  48.74844910  002.10397415  48.74844610  002.10384115 51
 111  48.74841833  002.10249583 51
 112  48.74838785  002.10271347  48.74836381  002.10283545 51
-112  48.74828633  002.10317583  48.74826333  002.10328083 51
-112  48.74809359  002.10395731  48.74807059  002.10406231 51
+112  48.74829849  002.10310052  48.74827549  002.10320552 51
+112  48.74809674  002.10396208  48.74807374  002.10406708 51
 112  48.74799875  002.10433864  48.74798075  002.10443564
 111  48.74799875  002.10433864
 112  48.74799875  002.10433864  48.74799158  002.10437729 51
@@ -1384,8 +1384,15 @@ I
 112  48.74795194  002.10471101  48.74795013  002.10474049
 111  48.74795194  002.10471101
 112  48.74795194  002.10471101  48.74794894  002.10476002 51
-112  48.74794215  002.10561866  48.74794515  002.10572966 51
-112  48.74796924  002.10644440  48.74797224  002.10655540 51
+112  48.74794592  002.10561675  48.74794892  002.10572775
+111  48.74794592  002.10561675
+112  48.74794592  002.10561675  48.74794725  002.10566593 51
+112  48.74794480  002.10596795  48.74794774  002.10612696
+111  48.74794480  002.10596795
+112  48.74794480  002.10596795  48.74794850  002.10616783 51
+112  48.74796232  002.10645204  48.74796399  002.10651386
+111  48.74796232  002.10645204
+112  48.74796232  002.10645204  48.74796532  002.10656304 51
 112  48.74799566  002.10698528  48.74799966  002.10707028 51
 112  48.74800933  002.10720783  48.74801233  002.10726483 51
 112  48.74802833  002.10735383  48.74803733  002.10739383 51
@@ -1411,8 +1418,8 @@ I
 116  48.74849614  002.10195039  48.74846414  002.10205039
 120 Centreline for Taxi
 112  48.75191700  002.11387810  48.75200078  002.11427698 51
-112  48.75169852  002.11452065  48.75162027  002.11457319 51
-112  48.75098129  002.11489075  48.75092029  002.11492175 51
+112  48.75169637  002.11451217  48.75161812  002.11456471 51
+112  48.75084123  002.11496466  48.75078023  002.11499566 51
 112  48.75066345  002.11486424  48.75061976  002.11484151 51
 112  48.75055120  002.11482831  48.75049120  002.11483231 51
 112  48.75039441  002.11492899  48.75036241  002.11498199 51
@@ -1421,8 +1428,8 @@ I
 112  48.75048333  002.11541483  48.75053233  002.11544583 51
 112  48.75064953  002.11545535  48.75070753  002.11545835 51
 112  48.75079014  002.11541395  48.75083514  002.11539195 51
-112  48.75095633  002.11532639  48.75101733  002.11529539 51
-112  48.75178774  002.11489676  48.75191123  002.11483122 51
+112  48.75095672  002.11531810  48.75101772  002.11528710 51
+112  48.75181509  002.11488728  48.75193858  002.11482174 51
 116  48.75201429  002.11430665  48.75196520  002.11404017
 120 Centreline for Taxi
 112  48.74844910  002.10397415  48.74845210  002.10410715 51
@@ -1639,10 +1646,10 @@ I
 116  48.75163703  002.11346694  48.75153762  002.11353118
 120 Centreline for Taxi
 112  48.75213045  002.11482340  48.75207102  002.11452915 51
-116  48.75169852  002.11452065  48.75155359  002.11459081
+116  48.75169637  002.11451217  48.75155144  002.11458234
 120 Centreline for Taxi
 112  48.75219402  002.11511693  48.75211704  002.11486568 51
-116  48.75182903  002.11488153  48.75176803  002.11491253
+116  48.75181509  002.11488728  48.75175409  002.11491828
 120 E25R
 112  48.75277386  002.11582665  48.75285286  002.11585565 51
 116  48.75287218  002.11600610  48.75287195  002.11607715
@@ -1673,7 +1680,7 @@ I
 111  48.74789577  002.10458919 51
 116  48.74795194  002.10471101  48.74794999  002.10481515
 120 Centreline for Taxi join
-112  48.74809359  002.10395731  48.74806558  002.10407289 51
+112  48.74809674  002.10396208  48.74806873  002.10407766 51
 116  48.74796912  002.10408703  48.74796812  002.10408603
 120 Centreline for Taxi
 112  48.75066345  002.11486424  48.75069040  002.11489231 51
@@ -2016,107 +2023,107 @@ I
 20  48.74859833  002.10556483 86.9500 0 3 {@Y}APRON_
 20  48.74879916  002.10788665 51.9500 0 3 {@Y}B{^r}
 20  48.74863435  002.10717971 90.2800 0 3 {@Y}C{^r}
-14  48.75068427  002.11187778  98.43 0 Toussus-le-Noble Tower
-1300  48.75021145  002.11038648 273.35 tie_down props|helos GA_Ramp_10
+14  48.75068427  002.11187778 114.83 0 Toussus-le-Noble Tower
+1300  48.75021406  002.11031932 273.35 tie_down props|helos GA_Ramp_10
 1301 A general_aviation 
-1300  48.75035333  002.11040383 274.01 tie_down props|helos GA_Ramp_11
+1300  48.75035593  002.11033667 274.01 tie_down props|helos GA_Ramp_11
 1301 A general_aviation 
-1300  48.75048111  002.11042183 274.95 tie_down props|helos GA_Ramp_12
+1300  48.75048372  002.11035467 274.95 tie_down props|helos GA_Ramp_12
 1301 A general_aviation 
-1300  48.75061514  002.11043922 274.29 tie_down props|helos GA_Ramp_13
+1300  48.75061775  002.11037206 274.29 tie_down props|helos GA_Ramp_13
 1301 A general_aviation 
-1300  48.75074820  002.11045845 274.50 tie_down props|helos GA_Ramp_14
+1300  48.75075081  002.11039129 274.50 tie_down props|helos GA_Ramp_14
 1301 A general_aviation 
-1300  48.75069952  002.11094983 273.94 tie_down props|helos GA_Ramp_23
+1300  48.75070212  002.11088267 273.94 tie_down props|helos GA_Ramp_23
 1301 A general_aviation 
-1300  48.75083540  002.11096409 274.39 tie_down props|helos GA_Ramp_24
+1300  48.75083800  002.11089693 274.39 tie_down props|helos GA_Ramp_24
 1301 A general_aviation 
-1300  48.75097052  002.11097878 274.03 tie_down props|helos GA_Ramp_25
+1300  48.75097312  002.11091162 274.03 tie_down props|helos GA_Ramp_25
 1301 A general_aviation 
-1300  48.74970609  002.11025014 344.96 tie_down props|helos GA_Ramp_30
+1300  48.74975345  002.11023219 344.96 tie_down props|helos GA_Ramp_30
 1301 A general_aviation 
-1300  48.74973330  002.11044922 345.57 tie_down props|helos GA_Ramp_31
+1300  48.74978067  002.11043127 345.57 tie_down props|helos GA_Ramp_31
 1301 A general_aviation 
-1300  48.74981827  002.11096417 344.66 tie_down turboprops|props|helos|fighters GA_Ramp_33
+1300  48.74986563  002.11094622 344.66 tie_down turboprops|props|helos|fighters GA_Ramp_33
+1301 A general_aviation 
+1300  48.74990503  002.11122503 343.94 tie_down turboprops|props|helos|fighters GA_Ramp_34
+1301 A general_aviation 
+1300  48.75135693  002.11201654 341.27 tie_down jets|turboprops|helos|fighters GA_Ramp_41_Terminal
 1301 B general_aviation 
-1300  48.74985767  002.11124299 343.94 tie_down turboprops|props|helos|fighters GA_Ramp_34
+1300  48.75145416  002.11244746 340.81 tie_down jets|turboprops|helos|fighters GA_Ramp_42_Terminal
 1301 B general_aviation 
-1300  48.75129441  002.11205012 341.27 tie_down jets|turboprops|helos|fighters GA_Ramp_41_Terminal
-1301 B general_aviation 
-1300  48.75139164  002.11248104 340.81 tie_down jets|turboprops|helos|fighters GA_Ramp_42_Terminal
-1301 B general_aviation 
-1300  48.74934070  002.10762591 141.97 tie_down props|helos Apron Grass
+1300  48.74928994  002.10767210 141.97 tie_down props|helos Apron Grass
 1301 A general_aviation 
-1300  48.74989819  002.10865729 141.97 tie_down props|helos Apron Grass
+1300  48.74984743  002.10870348 141.97 tie_down props|helos Apron Grass
 1301 A general_aviation 
-1300  48.74747286  002.10715845  51.54 tie_down props|helos Aero Touring Club de France (ATCF)
+1300  48.74748754  002.10720742  51.54 tie_down props|helos Aero Touring Club de France (ATCF)
 1301 A general_aviation 
-1300  48.74787451  002.10754426  51.23 tie_down turboprops|props|helos Restaurant Air & Cook / L'Assiette
-1301 B general_aviation 
-1300  48.74817138  002.10834898 -128.75 tie_down jets|turboprops|props|helos|fighters Clean Aero Service
-1301 B general_aviation 
-1300  48.74921433  002.11071683 254.36 tie_down props|helos HeliOxygene
-1301 B general_aviation 
-1300  48.74957209  002.11229314 168.14 tie_down turboprops|props France_Aviation_2
-1301 B general_aviation 
-1300  48.74957703  002.11298185 -105.85 tie_down turboprops|props France Aviation_1
-1301 B general_aviation 
-1300  48.74985885  002.11344319 208.99 tie_down props Alcyons_1
+1300  48.74790191  002.10760213  51.23 tie_down turboprops|props|helos Restaurant Air & Cook / L'Assiette
 1301 A general_aviation 
-1300  48.74957757  002.11326841  75.96 tie_down props Alcyons_2
+1300  48.74814399  002.10825697 -128.75 tie_down jets|turboprops|props|helos|fighters Clean Aero Service
+1301 B general_aviation 
+1300  48.74922646  002.11061430 254.36 tie_down props|helos HeliOxygene
+1301 B general_aviation 
+1300  48.74943688  002.11216694 255.76 tie_down turboprops|props France_Aviation_2
+1301 B general_aviation 
+1300  48.74951809  002.11274523 -105.85 tie_down turboprops|props France Aviation_1
+1301 B general_aviation 
+1300  48.74978951  002.11339324 221.85 tie_down props Alcyons_1
 1301 A general_aviation 
-1300  48.74920091  002.11449175 208.10 tie_down props Farman_Light
+1300  48.74960010  002.11333676  75.96 tie_down props Alcyons_2
+1301 A general_aviation 
+1300  48.74919224  002.11445757 208.10 tie_down props Farman_Light
 1301 A general_aviation 
 1300  48.74885174  002.11503878 122.33 tie_down turboprops|props Farman_TurboProp
-1301 B general_aviation 
-1300  48.74886817  002.11536536 232.70 tie_down props Farman_Light_W
 1301 A general_aviation 
-1300  48.74782878  002.10394893  88.71 tie_down props Aeroclub Air France_1 (ACAF)
+1300  48.74885083  002.11531804 232.70 tie_down props Farman_Light_W
 1301 A general_aviation 
-1300  48.74783123  002.10459490 359.99 tie_down props Aeroclub Air France_2 (ACAF)
+1300  48.74784298  002.10400638  88.71 tie_down props Aeroclub Air France_1 (ACAF)
 1301 A general_aviation 
-1300  48.74660789  002.10049836   0.00 tie_down props Aeroclub Alinter
+1300  48.74787386  002.10458951 359.99 tie_down props Aeroclub Air France_2 (ACAF)
 1301 A general_aviation 
-1300  48.74786638  002.10041855 310.74 tie_down props Air Connection
+1300  48.74658267  002.10045534   0.00 tie_down props Aeroclub Alinter
+1301 A general_aviation 
+1300  48.74790016  002.10035334 310.74 tie_down props Air Connection
 1301 A general_aviation 
 1300  48.74774735  002.09971477 121.01 tie_down props|helos|fighters Air et Compagnie_Grass
 1301 A general_aviation 
-1300  48.74748466  002.10047058  -0.49 tie_down props|helos|fighters Air et Compagnie
+1300  48.74748808  002.10043552  -0.49 tie_down props|helos|fighters Air et Compagnie
 1301 A general_aviation 
 1300  48.74738245  002.09972002 112.80 tie_down props|helos AstonJet_Grass
 1301 A general_aviation 
-1300  48.74726951  002.10047397   0.00 tie_down props|helos|fighters AstonJet
+1300  48.74732172  002.10045068   0.00 tie_down props|helos|fighters AstonJet
 1301 A general_aviation 
-1300  48.74711664  002.10045431 177.93 tie_down props Trimaille_1
+1300  48.74705522  002.10045431 177.93 tie_down props Trimaille_1
 1301 A general_aviation 
-1300  48.74689995  002.10029528   0.00 tie_down props Trimaille_2
-1301 B general_aviation 
+1300  48.74694909  002.10029063   0.00 tie_down props Trimaille_2
+1301 A general_aviation 
 1300  48.74788033  002.10188783   0.00 tie_down helos HelixAero
 1301 A general_aviation 
 1300  48.74675699  002.10291970   0.00 tie_down helos Heli Union_2
+1301 A general_aviation 
+1300  48.74768732  002.10285788   0.00 tie_down helos Heli Union_1
+1301 A general_aviation 
+1300  48.74867939  002.10914193 232.87 tie_down props Aeroclub de l'Ouest Parisien (ACOP)
+1301 A general_aviation 
+1300  48.74841356  002.10878575 233.72 tie_down jets|turboprops|props|helos Decaux
 1301 B general_aviation 
-1300  48.74751534  002.10289049   0.00 tie_down helos Heli Union_1
-1301 B general_aviation 
-1300  48.74868631  002.10920142 232.87 tie_down props Aeroclub de l'Ouest Parisien (ACOP)
+1300  48.74877628  002.10976255  51.29 tie_down helos Golf Tango
 1301 A general_aviation 
-1300  48.74838126  002.10895721 233.72 tie_down jets|turboprops|props|helos Decaux
-1301 B general_aviation 
-1300  48.74872783  002.10977654  51.29 tie_down helos Golf Tango
+1300  48.74894318  002.11007585  51.29 tie_down props|helos Air Europe Club / Matra
 1301 A general_aviation 
-1300  48.74892703  002.11008985  51.29 tie_down props|helos Air Europe Club / Matra
+1300  48.75065508  002.11716709 287.94 tie_down props CFA/Jousse
 1301 A general_aviation 
-1300  48.75064354  002.11716359 287.94 tie_down props CFA/Jousse
+1300  48.75036487  002.11808872 196.26 tie_down props AéroPyrénées
 1301 A general_aviation 
-1300  48.75042945  002.11812626 105.64 tie_down props AéroPyrénées
+1300  48.75081883  002.11628614 -72.61 tie_down props|helos ACS
 1301 A general_aviation 
-1300  48.75080205  002.11635612 -72.61 tie_down props|helos ACS
+1300  48.75015087  002.11907947 -72.52 tie_down props|helos Aeroclub Paris Sud
 1301 A general_aviation 
-1300  48.75016136  002.11911447 -72.52 tie_down props|helos Aeroclub Paris Sud
-1301 A general_aviation 
-1300  48.74946804  002.11855850  15.42 tie_down helos Heli Horizon
+1300  48.74951209  002.11856168  15.42 tie_down helos Heli Horizon
 1301 A general_aviation 
 1300  48.74956439  002.11781914 106.33 tie_down turboprops|props|helos Aff'Air
-1301 B general_aviation 
+1301 A general_aviation 
 1300  48.74993937  002.11600687 287.58 tie_down props Aeroclub IPSA
 1301 A general_aviation 
 1300  48.74961544  002.11733281  17.06 tie_down helos Helidan
@@ -2126,4 +2133,705 @@ I
 50 12747 TOUSSUS ATIS
 53 12212 TOUSSUS GND
 54 12075 TOUSSUS TWR
+1000 25L no wind VFR prop
+1001 LFPN 000 000 4
+1002 LFPN 1300
+1003 LFPN 1.0
+1004 0600 2130
+1101 25L left
+1100 25L  11942 arrivals|departures props|helos 000000 261261 25L prop heli
+1000 07R East wind VFR prop light day wind
+1001 LFPN 342 162 999
+1002 LFPN 1300
+1003 LFPN 1.0
+1004 0600 2130
+1101 07R right
+1100 07R  11942 arrivals|departures props|helos 000000 076076 07R prop heli
+1000 25L West wind VFR prop day
+1001 LFPN 162 342 999
+1002 LFPN 1300
+1003 LFPN 1.0
+1004 0600 2130
+1101 25L left
+1100 25L  11942 arrivals|departures props|helos 000000 261261 25L prop heli
+1000 25R no wind all AC
+1001 LFPN 000 000 4
+1002 LFPN 0
+1003 LFPN 0.0
+1101 25R left
+1100 25R  11942 arrivals|departures jets|turboprops|props|helos|fighters 000000 261261 25R all AC
+1000 07L East wind all AC min VOR app
+1001 LFPN 342 162 999
+1002 LFPN 900
+1003 LFPN 1.0
+1101 07L right
+1100 07L  11942 arrivals|departures jets|turboprops|props|helos|fighters 000000 076076 07L all AC
+1000 25R All other
+1001 LFPN 000 000 999
+1002 LFPN 0
+1003 LFPN 0.0
+1101 25R left
+1100 25R  11942 arrivals|departures jets|turboprops|props|helos|fighters 000000 261261 25R all AC
+1200 
+1201  48.74836355  002.10236825 both 0 W2_stop
+1201  48.74841078  002.10208351 both 1 W2_stop
+1201  48.74836120  002.10224835 both 2 W2_stop
+1201  48.74826967  002.10232065 both 3 W2_stop
+1201  48.74814382  002.10232643 both 4 W2_stop
+1201  48.74779486  002.10233800 both 5 W2_stop
+1201  48.74705690  002.10238427 both 6 W2_stop
+1201  48.74665836  002.10240741 both 7 W2_start
+1201  48.74826961  002.09993009 both 8 W3_stop
+1201  48.74797160  002.09994493 both 9 W3_stop
+1201  48.74754995  002.09997191 both 10 W3_stop
+1201  48.74742985  002.09997866 both 11 W3_stop
+1201  48.74701976  002.09999754 both 12 W3_stop
+1201  48.74670041  002.10000699 both 13 W3_stop
+1201  48.74659010  002.10001103 both 14 W3_start
+1201  48.74940245  002.10003146 both 15 W1_stop
+1201  48.74915763  002.10016149 both 16 W1_stop
+1201  48.74910831  002.10019846 both 17 W1_stop
+1201  48.74906960  002.10025954 both 18 W1_stop
+1201  48.74860656  002.10160417 both 19 W1_stop
+1201  48.74849607  002.10194608 both 20 W1_stop
+1201  48.74845889  002.10211081 both 21 W1_stop
+1201  48.74841984  002.10251328 both 22 W1_start
+1201  48.74903458  002.10035913 both 23 W1_stop
+1201  48.74880855  002.10101210 both 24 W1_stop
+1201  48.74870358  002.10131872 both 25 W1_stop
+1201  48.74866079  002.10137421 both 26 W1_stop
+1201  48.74853749  002.10140537 both 27 W1_stop
+1201  48.74845628  002.10134749 both 28 W1_stop
+1201  48.74959437  002.09761379 both 29 W_stop
+1201  48.74954050  002.09744694 both 30 W_stop
+1201  48.74949394  002.09724409 both 31 W_stop
+1201  48.74945422  002.09713193 both 32 W_stop
+1201  48.75121283  002.09912512 both 33 W_stop
+1201  48.75000224  002.09802849 both 34 W_stop
+1201  48.74965409  002.09771057 both 35 W_stop
+1201  48.74943293  002.09752351 both 36 W_stop
+1201  48.74940143  002.09705225 both 37 W_stop
+1201  48.74934796  002.09700461 both 38 W_stop
+1201  48.74922298  002.09696609 both 39 W_stop
+1201  48.74907461  002.09697217 both 40 W_stop
+1201  48.74895631  002.09707151 both 41 W_stop
+1201  48.74889148  002.09719619 both 42 W_stop
+1201  48.74883735  002.09741411 both 43 W_stop
+1201  48.74878388  002.09750737 both 44 W_stop
+1201  48.74931979  002.09746158 both 45 W_stop
+1201  48.74916350  002.09741220 both 46 W_stop
+1201  48.74910619  002.09740627 both 47 W_stop
+1201  48.74895641  002.09742603 both 48 W_stop
+1201  48.74882878  002.09749121 both 49 W_stop
+1201  48.74870635  002.09758207 both 50 W_stop
+1201  48.74852531  002.09779145 both 51 W_stop
+1201  48.74840419  002.09807983 both 52 W_stop
+1201  48.74833776  002.09839192 both 53 W_stop
+1201  48.74833776  002.09854006 both 54 W_stop
+1201  48.74834558  002.09909708 both 55 W_stop
+1201  48.74836251  002.09992470 both 56 W_stop
+1201  48.74835679  002.09966702 both 57 unnamed entity(split)
+1201  48.74836772  002.10016963 both 58 W_stop
+1201  48.74838856  002.10113156 both 59 W_start
+1201  48.74942726  002.11010027 both 60 _stop
+1201  48.74942726  002.11022017 both 61 _stop
+1201  48.74965225  002.10989892 both 62 _stop
+1201  48.74970220  002.11338000 both 63 _stop
+1201  48.74988034  002.11312301 both 64 _stop
+1201  48.74987382  002.11283306 both 65 _stop
+1201  48.74939421  002.11192818 both 66 _stop
+1201  48.74966756  002.11183002 both 67 _stop
+1201  48.74949681  002.11253662 both 68 _stop
+1201  48.74977330  002.11244676 both 69 _stop
+1201  48.74978766  002.11236779 both 70 _stop
+1201  48.74970148  002.11183409 both 71 _stop
+1201  48.74960812  002.11127861 both 72 _stop
+1201  48.74968279  002.11172031 both 73 unnamed entity(split)
+1201  48.74956144  002.11100903 both 74 _stop
+1201  48.74951476  002.11071496 both 75 _stop
+1201  48.74947706  002.11049984 both 76 _stop
+1201  48.74944474  002.11030379 both 77 _stop
+1201  48.74944294  002.11014586 both 78 _stop
+1201  48.74950606  002.11003231 both 79 _stop
+1201  48.74956411  002.10988978 both 80 _stop
+1201  48.74957148  002.10972909 both 81 _stop
+1201  48.74881763  002.10809679 both 82 _stop
+1201  48.74884586  002.10814916 both 83 _stop
+1201  48.74889366  002.10805691 both 84 _stop
+1201  48.74900880  002.10793830 both 85 _stop
+1201  48.74913915  002.10785264 both 86 _stop
+1201  48.74924560  002.10794489 both 87 _stop
+1201  48.74973657  002.10887071 both 88 _start
+1201  48.74842264  002.10264475 both 89 S_stop
+1201  48.74845082  002.10405286 both 90 S_stop
+1201  48.74844964  002.10399643 both 91 unnamed entity(split)
+1201  48.74845646  002.10429938 both 92 S_stop
+1201  48.74846160  002.10459262 both 93 S_stop
+1201  48.74845827  002.10450010 both 94 unnamed entity(split)
+1201  48.74846822  002.10486578 both 95 S_stop
+1201  48.74848072  002.10550021 both 96 S_stop
+1201  48.74849910  002.10636654 both 97 S_stop
+1201  48.74851306  002.10694856 both 98 S_stop
+1201  48.74850489  002.10668317 both 99 unnamed entity(split)
+1201  48.74853439  002.10744584 both 100 S_stop
+1201  48.74860129  002.10774465 both 101 S_stop
+1201  48.74856919  002.10760196 both 102 unnamed entity(split)
+1201  48.74870936  002.10800333 both 103 S_stop
+1201  48.74878802  002.10815720 both 104 S_stop
+1201  48.74887183  002.10832444 both 105 S_stop
+1201  48.74918061  002.10892096 both 106 S_stop
+1201  48.74910409  002.10877584 both 107 unnamed entity(split)
+1201  48.74951235  002.10956755 both 108 S_stop
+1201  48.74964835  002.10977320 both 109 S_stop
+1201  48.75176188  002.11290362 both 110 S_stop
+1201  48.75186231  002.11292114 both 111 S_stop
+1201  48.75178096  002.11298359 both 112 S_stop
+1201  48.75249517  002.11269018 both 113 S_stop
+1201  48.75224474  002.11281499 both 114 S_stop
+1201  48.75205724  002.11287393 both 115 S_start
+1201  48.75246962  002.11321354 both 116 S_stop
+1201  48.75185485  002.11337824 both 117 S_stop
+1201  48.74981554  002.10989504 both 118 S_stop
+1201  48.74995064  002.10997219 both 119 S_stop
+1201  48.75011860  002.11002857 both 120 S_stop
+1201  48.75047381  002.11006628 both 121 S_stop
+1201  48.75079942  002.11010399 both 122 S_stop
+1201  48.75094742  002.11015965 both 123 S_stop
+1201  48.75114988  002.11046493 both 124 S_stop
+1201  48.75125645  002.11089771 both 125 S_stop
+1201  48.75136538  002.11141668 both 126 S_stop
+1201  48.75139024  002.11152084 both 127 S_stop
+1201  48.75149088  002.11195362 both 128 S_stop
+1201  48.75158679  002.11237742 both 129 S_stop
+1201  48.75168032  002.11281379 both 130 S_stop
+1201  48.75166547  002.11274978 both 131 unnamed entity(split)
+1201  48.75175373  002.11315679 both 132 S_stop
+1201  48.75180346  002.11337408 both 133 S_stop
+1201  48.75215422  002.11333373 both 134 S_stop
+1201  48.75203130  002.11337421 both 135 S_stop
+1201  48.75188654  002.11349441 both 136 S_stop
+1201  48.74935114  002.11002573 both 137 S2_stop
+1201  48.74894575  002.10924645 both 138 S2_stop
+1201  48.74876536  002.10889447 both 139 S2_stop
+1201  48.74884608  002.10905452 both 140 unnamed entity(split)
+1201  48.74853834  002.10844873 both 141 S2_stop
+1201  48.74842280  002.10821665 both 142 S2_stop
+1201  48.74825963  002.10790002 both 143 S2_stop
+1201  48.74807417  002.10752192 both 144 S2_stop
+1201  48.74802552  002.10735285 both 145 S2_stop
+1201  48.74800829  002.10720683 both 146 S2_stop
+1201  48.74795965  002.10618011 both 147 S2_stop
+1201  48.74798555  002.10672614 both 148 unnamed entity(split)
+1201  48.74794242  002.10561756 both 149 S2_stop
+1201  48.74795255  002.10471073 both 150 S2_stop
+1201  48.74799410  002.10433570 both 151 S2_stop
+1201  48.74797876  002.10447414 both 152 unnamed entity(split)
+1201  48.74811673  002.10386998 both 153 S2_stop
+1201  48.74809322  002.10395813 both 154 unnamed entity(split)
+1201  48.74803319  002.10418681 both 155 unnamed entity(split)
+1201  48.74827717  002.10321492 both 156 S2_stop
+1201  48.74835761  002.10285607 both 157 S2_stop
+1201  48.74839871  002.10265572 both 158 S2_stop
+1201  48.74802322  002.10436313 both 159 F_stop
+1201  48.74841604  002.10423776 both 160 F_stop
+1201  48.74832354  002.10431220 both 161 F_stop
+1201  48.74814985  002.10432270 both 162 F_stop
+1201  48.74804917  002.10427307 both 163 F_stop
+1201  48.74801770  002.10410319 both 164 F_stop
+1201  48.74803784  002.10405261 both 165 F_stop
+1201  48.74793212  002.10408602 both 166 F_start
+1201  48.74840079  002.10433212 both 167 F_stop
+1201  48.74739169  002.10633656 both 168 D_stop
+1201  48.75193663  002.11414777 both 169 E4_stop
+1201  48.75187201  002.11443096 both 170 E4_stop
+1201  48.75169146  002.11452566 both 171 E4_stop
+1201  48.75098118  002.11489182 both 172 E4_stop
+1201  48.75080923  002.11498028 both 173 E4_stop
+1201  48.74989812  002.11504083 both 174 E3_stop
+1201  48.74965007  002.11512613 both 175 E3_stop
+1201  48.74947833  002.11517639 both 176 E3_stop
+1201  48.74933271  002.11517334 both 177 E3_stop
+1201  48.74919864  002.11514517 both 178 E3_stop
+1201  48.74905252  002.11510937 both 179 E3_stop
+1201  48.74897318  002.11505302 both 180 E3_start
+1201  48.75059357  002.11482399 both 181 E2_stop
+1201  48.75048197  002.11483993 both 182 E2_stop
+1201  48.75038978  002.11492456 both 183 E2_stop
+1201  48.75032508  002.11518703 both 184 E2_stop
+1201  48.75019981  002.11495261 both 185 unnamed entity(split)
+1201  48.75028708  002.11535507 both 186 E2_stop
+1201  48.74965225  002.11853295 both 187 E2_stop
+1201  48.74973647  002.11810872 both 188 unnamed entity(split)
+1201  48.74987079  002.11743684 both 189 unnamed entity(split)
+1201  48.75004248  002.11657878 both 190 unnamed entity(split)
+1201  48.75013499  002.11611737 both 191 unnamed entity(split)
+1201  48.74967651  002.11871079 both 192 E2_stop
+1201  48.74984633  002.11887024 both 193 E2_stop
+1201  48.74974625  002.11880354 both 194 unnamed entity(split)
+1201  48.75004285  002.11885920 both 195 E2_stop
+1201  48.74995619  002.11887909 both 196 unnamed entity(split)
+1201  48.75011563  002.11859918 both 197 E2_stop
+1201  48.75076502  002.11531703 both 198 E2_stop
+1201  48.75077876  002.11506314 both 199 E2_stop
+1201  48.75078628  002.11515881 both 200 unnamed entity(split)
+1201  48.75066474  002.11486321 both 201 E2_start
+1201  48.75074554  002.11494367 both 202 unnamed entity(split)
+1201  48.75002927  002.11499821 both 203 E1_stop
+1201  48.75036879  002.11533080 both 204 E1_stop
+1201  48.75047315  002.11541724 both 205 E1_stop
+1201  48.75059349  002.11544549 both 206 E1_stop
+1201  48.75073690  002.11544023 both 207 E1_stop
+1201  48.75061054  002.11606854 both 208 unnamed entity(split)
+1201  48.75050829  002.11660400 both 209 unnamed entity(split)
+1201  48.75042002  002.11706273 both 210 unnamed entity(split)
+1201  48.75033950  002.11747241 both 211 unnamed entity(split)
+1201  48.75022849  002.11802880 both 212 unnamed entity(split)
+1201  48.75079152  002.11541371 both 213 E1_stop
+1201  48.75095701  002.11532637 both 214 E1_stop
+1201  48.75178690  002.11489539 both 215 E1_stop
+1201  48.75196703  002.11479724 both 216 E1_stop
+1201  48.75332047  002.11611336 both 217 E_stop
+1201  48.75321888  002.11608193 both 218 E_stop
+1201  48.75313801  002.11597448 both 219 E_stop
+1201  48.75305246  002.11586196 both 220 E_stop
+1201  48.75324819  002.11573283 both 221 E_stop
+1201  48.75312814  002.11580058 both 222 E_stop
+1201  48.75298017  002.11583445 both 223 E_stop
+1201  48.75277903  002.11583562 both 224 E_stop
+1201  48.75255605  002.11572497 both 225 E_stop
+1201  48.75237357  002.11551804 both 226 E_stop
+1201  48.75219402  002.11511693 both 227 E_stop
+1201  48.75226877  002.11532871 both 228 unnamed entity(split)
+1201  48.75212064  002.11478049 both 229 E_stop
+1201  48.75187415  002.11368376 both 230 E_start
+1201  48.75191754  002.11387775 both 231 unnamed entity(split)
+1201  48.75193323  002.11394734 both 232 unnamed entity(split)
+1201  48.75201429  002.11430665 both 233 unnamed entity(split)
+1201  48.75200232  002.11457732 both 234 unnamed entity(split)
+1201  48.75347083  002.11574238 both 235 E_stop
+1201  48.75347423  002.11583912 both 236 E_stop
+1201  48.75346233  002.11594100 both 237 E_stop
+1201  48.75340705  002.11605407 both 238 E_start
+1201  48.75420680  002.11276792 both 239 E_stop
+1201  48.75410409  002.11331499 both 240 E_stop
+1201  48.75365688  002.11502364 both 241 E_stop
+1201  48.75354447  002.11533765 both 242 E_stop
+1201  48.75346526  002.11549084 both 243 E_stop
+1201  48.75330429  002.11568355 both 244 E_start
+1201  48.75124808  002.11082110 both 245 _stop
+1201  48.75126841  002.11072214 both 246 _stop
+1201  48.75120361  002.11067223 both 247 _stop
+1201  48.75131790  002.11061952 both 248 _stop
+1201  48.75107099  002.11030274 both 249 _stop
+1201  48.75114652  002.11042337 both 250 _stop
+1201  48.75124477  002.11050345 both 251 _stop
+1201  48.75132497  002.11051967 both 252 _stop
+1201  48.75141535  002.11045748 both 253 _stop
+1201  48.75173081  002.10991821 both 254 _stop
+1201  48.75179029  002.10982698 both 255 _stop
+1201  48.74959110  002.09977558 both 256 25L-07R_stop
+1201  48.75261363  002.11321495 both 257 25L-07R_start
+1201  48.75258365  002.11308476 both 258 unnamed entity(split)
+1201  48.75181301  002.10965465 both 259 unnamed entity(split)
+1201  48.74961988  002.09990504 both 260 unnamed entity(split)
+1201  48.75125754  002.09869752 both 261 25R-07L_stop
+1201  48.75445018  002.11290897 both 262 25R-07L_start
+1201  48.75435155  002.11246985 both 263 unnamed entity(split)
+1201  48.75134162  002.09907252 both 264 unnamed entity(split)
+1202 0 22 twoway taxiway_A W2
+1202 3 0 twoway taxiway_A W2
+1202 2 1 twoway taxiway_A W2
+1202 3 2 twoway taxiway_A W2
+1202 4 3 twoway taxiway_A W2
+1202 5 4 twoway taxiway_A W2
+1202 6 5 twoway taxiway_A W2
+1202 7 6 twoway taxiway_A W2
+1202 8 57 twoway taxiway_A W3
+1202 8 58 twoway taxiway_A W3
+1202 9 8 twoway taxiway_A W3
+1202 10 9 twoway taxiway_A W3
+1202 11 10 twoway taxiway_A W3
+1202 12 11 twoway taxiway_A W3
+1202 13 12 twoway taxiway_A W3
+1202 14 13 twoway taxiway_A W3
+1202 15 260 twoway taxiway_A W1
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 16 15 twoway taxiway_A W1
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 17 16 twoway taxiway_A W1
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 18 17 twoway taxiway_A W1
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 23 18 twoway taxiway_A W1
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 19 25 twoway taxiway_A W1
+1202 20 19 twoway taxiway_A W1
+1202 21 20 twoway taxiway_A W1
+1202 22 21 twoway taxiway_A W1
+1202 24 23 twoway taxiway_A W1
+1202 25 24 twoway taxiway_A W1
+1202 26 25 twoway taxiway_A W1
+1202 27 26 twoway taxiway_A W1
+1202 28 27 twoway taxiway_A W1
+1202 59 28 twoway taxiway_A W1
+1202 29 35 twoway taxiway_A W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 30 29 twoway taxiway_A W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 31 30 twoway taxiway_A W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 32 31 twoway taxiway_A W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 37 32 twoway taxiway_A W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 33 264 twoway taxiway_B W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 34 33 twoway taxiway_B W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 35 34 twoway taxiway_B W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 36 35 twoway taxiway_B W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 45 36 twoway taxiway_B W
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1202 38 37 twoway taxiway_A W
+1202 39 38 twoway taxiway_A W
+1202 40 39 twoway taxiway_A W
+1202 41 40 twoway taxiway_A W
+1202 42 41 twoway taxiway_A W
+1202 43 42 twoway taxiway_A W
+1202 44 43 twoway taxiway_A W
+1202 50 44 twoway taxiway_A W
+1202 46 45 twoway taxiway_B W
+1202 47 46 twoway taxiway_B W
+1202 48 47 twoway taxiway_B W
+1202 49 48 twoway taxiway_B W
+1202 50 49 twoway taxiway_B W
+1202 51 50 twoway taxiway_B W
+1202 52 51 twoway taxiway_B W
+1202 53 52 twoway taxiway_B W
+1202 54 53 twoway taxiway_B W
+1202 55 54 twoway taxiway_B W
+1202 56 57 twoway taxiway_B W
+1202 57 55 twoway taxiway_B W
+1202 58 56 twoway taxiway_B W
+1202 59 58 twoway taxiway_B W
+1202 60 79 twoway taxiway_A 
+1202 137 60 twoway taxiway_A 
+1202 61 77 twoway taxiway_A 
+1202 137 61 twoway taxiway_A 
+1202 62 118 twoway taxiway_B 
+1202 79 62 twoway taxiway_B 
+1202 64 63 twoway taxiway_A 
+1202 65 64 twoway taxiway_A 
+1202 70 65 twoway taxiway_A 
+1202 67 66 twoway taxiway_B 
+1202 73 67 twoway taxiway_B 
+1202 69 68 twoway taxiway_B 
+1202 70 69 twoway taxiway_B 
+1202 71 70 twoway taxiway_B 
+1202 72 73 twoway taxiway_B 
+1202 73 71 twoway taxiway_B 
+1202 74 72 twoway taxiway_B 
+1202 75 74 twoway taxiway_B 
+1202 76 75 twoway taxiway_B 
+1202 77 76 twoway taxiway_B 
+1202 78 77 twoway taxiway_B 
+1202 79 78 twoway taxiway_B 
+1202 80 79 twoway taxiway_B 
+1202 81 80 twoway taxiway_B 
+1202 108 81 twoway taxiway_B 
+1202 82 103 twoway taxiway_A 
+1202 84 82 twoway taxiway_A 
+1202 83 105 twoway taxiway_A 
+1202 84 83 twoway taxiway_A 
+1202 85 84 twoway taxiway_A 
+1202 86 85 twoway taxiway_A 
+1202 87 86 twoway taxiway_A 
+1202 88 87 twoway taxiway_A 
+1202 1 59 twoway taxiway_B S
+1202 22 1 twoway taxiway_B S
+1202 89 22 twoway taxiway_B S
+1202 90 91 twoway taxiway_B S
+1202 91 89 twoway taxiway_B S
+1202 92 90 twoway taxiway_B S
+1202 93 94 twoway taxiway_B S
+1202 94 92 twoway taxiway_B S
+1202 95 93 twoway taxiway_B S
+1202 96 95 twoway taxiway_B S
+1202 97 96 twoway taxiway_B S
+1202 98 99 twoway taxiway_B S
+1202 99 97 twoway taxiway_B S
+1202 100 98 twoway taxiway_B S
+1202 101 102 twoway taxiway_B S
+1202 102 100 twoway taxiway_B S
+1202 103 101 twoway taxiway_B S
+1202 104 103 twoway taxiway_B S
+1202 105 104 twoway taxiway_B S
+1202 106 107 twoway taxiway_B S
+1202 107 105 twoway taxiway_B S
+1202 108 106 twoway taxiway_B S
+1202 109 108 twoway taxiway_B S
+1202 118 109 twoway taxiway_B S
+1202 110 111 twoway taxiway_A S
+1202 131 110 twoway taxiway_A S
+1202 111 115 twoway taxiway_A S
+1202 112 111 twoway taxiway_A S
+1202 132 112 twoway taxiway_A S
+1202 114 113 twoway taxiway_A S
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 115 114 twoway taxiway_A S
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 116 258 twoway taxiway_A S
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 134 116 twoway taxiway_A S
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 117 135 twoway taxiway_A S
+1202 132 117 twoway taxiway_A S
+1202 119 118 twoway taxiway_B S
+1202 120 119 twoway taxiway_B S
+1202 121 120 twoway taxiway_B S
+1202 122 121 twoway taxiway_B S
+1202 123 122 twoway taxiway_B S
+1202 249 123 twoway taxiway_B S
+1202 124 249 twoway taxiway_B S
+1202 247 124 twoway taxiway_B S
+1202 125 247 twoway taxiway_B S
+1202 126 125 twoway taxiway_B S
+1202 127 126 twoway taxiway_B S
+1202 128 127 twoway taxiway_B S
+1202 129 128 twoway taxiway_B S
+1202 130 131 twoway taxiway_B S
+1202 131 129 twoway taxiway_B S
+1202 132 130 twoway taxiway_B S
+1202 133 132 twoway taxiway_B S
+1202 230 133 twoway taxiway_B S
+1202 135 134 twoway taxiway_A S
+1202 136 135 twoway taxiway_A S
+1202 230 136 twoway taxiway_A S
+1202 138 137 twoway taxiway_A S2
+1202 139 140 twoway taxiway_A S2
+1202 140 138 twoway taxiway_A S2
+1202 141 139 twoway taxiway_A S2
+1202 142 141 twoway taxiway_A S2
+1202 143 142 twoway taxiway_A S2
+1202 144 143 twoway taxiway_A S2
+1202 145 144 twoway taxiway_A S2
+1202 146 145 twoway taxiway_A S2
+1202 147 148 twoway taxiway_A S2
+1202 148 146 twoway taxiway_A S2
+1202 149 147 twoway taxiway_A S2
+1202 150 149 twoway taxiway_A S2
+1202 151 152 twoway taxiway_A S2
+1202 152 150 twoway taxiway_A S2
+1202 153 154 twoway taxiway_A S2
+1202 154 155 twoway taxiway_A S2
+1202 155 151 twoway taxiway_A S2
+1202 156 153 twoway taxiway_A S2
+1202 157 156 twoway taxiway_A S2
+1202 158 157 twoway taxiway_A S2
+1202 22 158 twoway taxiway_A S2
+1202 159 162 twoway taxiway_A F
+1202 152 159 twoway taxiway_A F
+1202 160 90 twoway taxiway_A F
+1202 161 160 twoway taxiway_A F
+1202 162 161 twoway taxiway_A F
+1202 163 162 twoway taxiway_A F
+1202 155 163 twoway taxiway_A F
+1202 164 155 twoway taxiway_A F
+1202 166 164 twoway taxiway_A F
+1202 165 154 twoway taxiway_A F
+1202 166 165 twoway taxiway_A F
+1202 167 94 twoway taxiway_A F
+1202 161 167 twoway taxiway_A F
+1202 148 168 twoway taxiway_A D
+1202 148 99 twoway taxiway_B D
+1202 143 102 twoway taxiway_B C
+1202 104 141 twoway taxiway_B B
+1202 107 140 twoway taxiway_B A
+1202 169 231 oneway taxiway_A E4
+1202 170 169 oneway taxiway_A E4
+1202 234 229 oneway taxiway_A E4
+1202 170 234 oneway taxiway_A E4
+1202 171 170 oneway taxiway_A E4
+1202 172 171 oneway taxiway_A E4
+1202 173 172 oneway taxiway_A E4
+1202 201 173 oneway taxiway_A E4
+1202 181 201 oneway taxiway_A E4
+1202 182 181 oneway taxiway_A E4
+1202 203 182 oneway taxiway_A E4
+1202 174 203 twoway taxiway_A E3
+1202 175 174 twoway taxiway_A E3
+1202 176 175 twoway taxiway_A E3
+1202 177 176 twoway taxiway_A E3
+1202 178 177 twoway taxiway_A E3
+1202 179 178 twoway taxiway_A E3
+1202 180 179 twoway taxiway_A E3
+1202 181 201 oneway taxiway_A E2
+1202 182 181 oneway taxiway_A E2
+1202 183 182 oneway taxiway_A E2
+1202 184 183 oneway taxiway_A E2
+1202 186 184 oneway taxiway_A E2
+1202 187 188 oneway taxiway_A E2
+1202 188 189 oneway taxiway_A E2
+1202 189 190 oneway taxiway_A E2
+1202 190 191 oneway taxiway_A E2
+1202 191 186 oneway taxiway_A E2
+1202 192 187 oneway taxiway_A E2
+1202 193 194 oneway taxiway_A E2
+1202 194 192 oneway taxiway_A E2
+1202 195 196 oneway taxiway_A E2
+1202 196 193 oneway taxiway_A E2
+1202 197 195 oneway taxiway_A E2
+1202 207 208 oneway taxiway_A E2
+1202 208 209 oneway taxiway_A E2
+1202 209 210 oneway taxiway_A E2
+1202 210 211 oneway taxiway_A E2
+1202 211 212 oneway taxiway_A E2
+1202 212 197 oneway taxiway_A E2
+1202 198 207 oneway taxiway_A E2
+1202 199 200 oneway taxiway_A E2
+1202 200 198 oneway taxiway_A E2
+1202 201 202 oneway taxiway_A E2
+1202 202 199 oneway taxiway_A E2
+1202 184 185 oneway taxiway_A E1
+1202 185 203 oneway taxiway_A E1
+1202 204 184 oneway taxiway_A E1
+1202 205 204 oneway taxiway_A E1
+1202 206 205 oneway taxiway_A E1
+1202 207 206 oneway taxiway_A E1
+1202 227 216 oneway taxiway_A E1
+1202 213 207 oneway taxiway_A E1
+1202 214 213 oneway taxiway_A E1
+1202 215 214 oneway taxiway_A E1
+1202 216 215 oneway taxiway_A E1
+1202 233 234 oneway taxiway_A E1
+1202 234 216 oneway taxiway_A E1
+1202 217 238 twoway taxiway_A E
+1202 218 217 twoway taxiway_A E
+1202 219 218 twoway taxiway_A E
+1202 220 219 twoway taxiway_A E
+1202 223 220 twoway taxiway_A E
+1202 221 244 twoway taxiway_B E
+1202 222 221 twoway taxiway_B E
+1202 223 222 twoway taxiway_B E
+1202 224 223 twoway taxiway_B E
+1202 225 224 twoway taxiway_B E
+1202 226 225 twoway taxiway_B E
+1202 227 228 twoway taxiway_B E
+1202 228 226 twoway taxiway_B E
+1202 229 227 twoway taxiway_B E
+1202 230 231 twoway taxiway_B 
+1202 231 232 twoway taxiway_B 
+1202 232 233 twoway taxiway_B 
+1202 233 229 twoway taxiway_B 
+1202 235 243 twoway taxiway_A E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 236 235 twoway taxiway_A E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 237 236 twoway taxiway_A E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 238 237 twoway taxiway_A E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 239 263 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 240 239 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 241 240 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 242 241 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 243 242 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 244 243 twoway taxiway_B E
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 25R
+1202 245 125 oneway taxiway_A 
+1202 246 245 oneway taxiway_A 
+1202 248 246 oneway taxiway_A 
+1202 248 247 oneway taxiway_A 
+1202 253 248 oneway taxiway_A 
+1202 250 249 oneway taxiway_A 
+1202 251 250 oneway taxiway_A 
+1202 252 251 oneway taxiway_A 
+1202 253 252 oneway taxiway_A 
+1202 254 253 oneway taxiway_A 
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 255 254 oneway taxiway_A 
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 259 255 oneway taxiway_A 
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1202 257 258 twoway runway 07R/25L
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1204 ils 07R,25L
+1202 258 113 twoway runway 07R/25L
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1204 ils 07R,25L
+1202 113 259 twoway runway 07R/25L
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1204 ils 07R,25L
+1202 259 260 twoway runway 07R/25L
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1204 ils 07R,25L
+1202 260 256 twoway runway 07R/25L
+1204 departure 07R,25L
+1204 arrival 07R,25L
+1204 ils 07R,25L
+1202 262 263 twoway runway 07L/25R
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 07L,25R
+1202 263 264 twoway runway 07L/25R
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 07L,25R
+1202 264 261 twoway runway 07L/25R
+1204 departure 07L,25R
+1204 arrival 07L,25R
+1204 ils 07L,25R
 99
