@@ -296,10 +296,19 @@
                 <child id="4426"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Toussus-le-Noble"/>
-            <airport always_flatten="0" elevation="163.7" has_atc="1" icao="LFPN" kind="Airport" scenery_id="52572"/>
+            <airport always_flatten="0" elevation="163.7" has_atc="1" icao="LFPN" kind="Airport" scenery_id="52887"/>
             <meta_data>
+                <meta_data_entry pair="city,Toussus-le-Noble"/>
                 <meta_data_entry pair="country,FR"/>
+                <meta_data_entry pair="datum_lat,48.749755556"/>
+                <meta_data_entry pair="datum_lon,2.111177778"/>
+                <meta_data_entry pair="faa_code,"/>
+                <meta_data_entry pair="iata_code,TNF"/>
+                <meta_data_entry pair="icao_code,LFPN"/>
+                <meta_data_entry pair="region_code,LF"/>
+                <meta_data_entry pair="state,Île-de-France"/>
                 <meta_data_entry pair="transition_alt,5000 ft AMSL"/>
+                <meta_data_entry pair="transition_level,"/>
             </meta_data>
         </object>
         <object class="WED_AirportNode" id="4101" parent_id="4099">
